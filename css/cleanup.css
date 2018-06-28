@@ -10,6 +10,12 @@
 #wall #tag-3{
     display:none;
 }
+.slick{
+    display:none;
+}
+.wicked{
+  display:none;
+}
 #wall .parent{
     display:none;
     
